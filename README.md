@@ -1,6 +1,8 @@
 # [Tic-Tac-Toe-Engine](https://www.npmjs.com/package/@larrywho11/tic-tac-toe)
 
-A Tic-Tac-Toe engine with bruteforce minimax. The algorithm is dead simple, look into the future and choose the best branch.
+A Tic-Tac-Toe engine with bruteforce minimax. The algorithm is dead simple, look into the future and choose the best branch. 
+
+The library is delivered with no further dependency and is therefore light-weight.
 
 ### Install
 
