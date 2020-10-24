@@ -33,7 +33,7 @@ console.log(board.winner());
 
 ### Author
 
-Lara Pollehn <lara.pollehn@googlemail.com
+Lara Pollehn <lara.pollehn@googlemail.com>
 
 ### License
 
