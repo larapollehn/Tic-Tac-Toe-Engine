@@ -1,6 +1,6 @@
 {
   "name": "@larrywho11/tic-tac-toe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tic-tac-toe engine.",
   "main": "index.js",
   "scripts": {
