@@ -8,6 +8,10 @@
     "lint": "eslint **/*.ts",
     "fix": "eslint **/*.ts --fix"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larapollehn/Tic-Tac-Toe-Engine.git"
+  },
   "keywords": ["Tic Tac Toe"],
   "author": "Lara Pollehn",
   "license": "ISC",
