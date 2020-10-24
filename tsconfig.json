@@ -1,0 +1,30 @@
+
+{
+  "ts-node": {
+    "files": true,
+    "compilerOptions": {
+      "types": [
+        "tsconfig-tsnode-types"
+      ]
+    }
+  },
+  "compilerOptions": {
+    "typeRoots": [
+      "tsconfig-typeroots"
+    ],
+    "module": "commonjs",
+    "target": "es6",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": [
+      "es6"
+    ],
+    "types": [
+      "node",
+      "tsconfig-types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
